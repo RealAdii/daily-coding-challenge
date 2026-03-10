@@ -16,3 +16,4 @@ A GitHub Actions workflow runs daily to fetch the next unsolved problem and crea
 
 | # | Problem | Solution | Date | Status |
 |---|---------|----------|------|--------|
+| 1 | [Problem 1](https://projecteuler.net/problem=1) | [solutions/problem_0001.py](solutions/problem_0001.py) | 2026-03-10 | Unsolved |
