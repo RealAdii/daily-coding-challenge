@@ -1,0 +1,19 @@
+"""
+Project Euler - Problem 16
+Date: 2026-03-23
+Link: https://projecteuler.net/problem=16
+"""
+
+# Problem Description:
+# $2^{15} = 32768$ and the sum of its digits is $3 + 2 + 7 + 6 + 8 = 26$. What
+# is the sum of the digits of the number $2^{1000}$?
+
+
+def solve():
+    """TODO: Implement solution."""
+    pass
+
+
+if __name__ == "__main__":
+    result = solve()
+    print(f"Answer: {result}")
