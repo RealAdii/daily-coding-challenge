@@ -112,3 +112,4 @@ A GitHub Actions workflow runs daily to fetch the next unsolved problem and crea
 | 94 | [Problem 94](https://projecteuler.net/problem=94) | [solutions/problem_0094.py](solutions/problem_0094.py) | 2026-06-10 | Unsolved |
 | 95 | [Problem 95](https://projecteuler.net/problem=95) | [solutions/problem_0095.py](solutions/problem_0095.py) | 2026-06-11 | Unsolved |
 | 96 | [Problem 96](https://projecteuler.net/problem=96) | [solutions/problem_0096.py](solutions/problem_0096.py) | 2026-06-12 | Unsolved |
+| 97 | [Problem 97](https://projecteuler.net/problem=97) | [solutions/problem_0097.py](solutions/problem_0097.py) | 2026-06-13 | Unsolved |
