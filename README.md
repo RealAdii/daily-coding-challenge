@@ -161,3 +161,4 @@ A GitHub Actions workflow runs daily to fetch the next unsolved problem and crea
 | 143 | [Problem 143](https://projecteuler.net/problem=143) | [solutions/problem_0143.py](solutions/problem_0143.py) | 2026-07-29 | Unsolved |
 | 144 | [Problem 144](https://projecteuler.net/problem=144) | [solutions/problem_0144.py](solutions/problem_0144.py) | 2026-07-30 | Unsolved |
 | 145 | [Problem 145](https://projecteuler.net/problem=145) | [solutions/problem_0145.py](solutions/problem_0145.py) | 2026-07-31 | Unsolved |
+| 146 | [Problem 146](https://projecteuler.net/problem=146) | [solutions/problem_0146.py](solutions/problem_0146.py) | 2026-08-01 | Unsolved |
