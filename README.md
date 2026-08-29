@@ -189,3 +189,4 @@ A GitHub Actions workflow runs daily to fetch the next unsolved problem and crea
 | 171 | [Problem 171](https://projecteuler.net/problem=171) | [solutions/problem_0171.py](solutions/problem_0171.py) | 2026-08-26 | Unsolved |
 | 172 | [Problem 172](https://projecteuler.net/problem=172) | [solutions/problem_0172.py](solutions/problem_0172.py) | 2026-08-27 | Unsolved |
 | 173 | [Problem 173](https://projecteuler.net/problem=173) | [solutions/problem_0173.py](solutions/problem_0173.py) | 2026-08-28 | Unsolved |
+| 174 | [Problem 174](https://projecteuler.net/problem=174) | [solutions/problem_0174.py](solutions/problem_0174.py) | 2026-08-29 | Unsolved |
