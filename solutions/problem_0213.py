@@ -1,0 +1,22 @@
+"""
+Project Euler - Problem 213
+Date: 2026-10-07
+Link: https://projecteuler.net/problem=213
+"""
+
+# Problem Description:
+# A $30 \times 30$ grid of squares contains $900$ fleas, initially one flea
+# per square. When a bell is rung, each flea jumps to an adjacent square at
+# random (usually $4$ possibilities, except for fleas on the edge of the grid
+# or at the corners). What is the expected number of unoccupied squares after
+# $50$ rings of the bell? Give your answer rounded to six decimal places.
+
+
+def solve():
+    """TODO: Implement solution."""
+    pass
+
+
+if __name__ == "__main__":
+    result = solve()
+    print(f"Answer: {result}")
