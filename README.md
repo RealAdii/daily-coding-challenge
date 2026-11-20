@@ -272,3 +272,4 @@ A GitHub Actions workflow runs daily to fetch the next unsolved problem and crea
 | 254 | [Problem 254](https://projecteuler.net/problem=254) | [solutions/problem_0254.py](solutions/problem_0254.py) | 2026-11-17 | Unsolved |
 | 255 | [Problem 255](https://projecteuler.net/problem=255) | [solutions/problem_0255.py](solutions/problem_0255.py) | 2026-11-18 | Unsolved |
 | 256 | [Problem 256](https://projecteuler.net/problem=256) | [solutions/problem_0256.py](solutions/problem_0256.py) | 2026-11-19 | Unsolved |
+| 257 | [Problem 257](https://projecteuler.net/problem=257) | [solutions/problem_0257.py](solutions/problem_0257.py) | 2026-11-20 | Unsolved |
